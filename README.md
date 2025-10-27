@@ -12,12 +12,13 @@ Cybersecurity enthusiast with a strong IT background, focused on safeguarding ne
 ## Skills
 | Skill/Project | Associated Project |
 |----------------|--------------------|
-| Professional Statement | [View my Professional Statement](https://github.com/YourUsername/YourRepoName/raw/main/Professional_Statement.pdf) |
+| Professional Statement | [View my Professional Statement](https://github.com/Russellrawat9/Russellrawat9/raw/main/I%20am%20an%20aspiring%20cybersecurity%20professional%20with%20a%20solid%20fou.pdf) |
 | Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) |
 | Security Automation with Shuffle SOAR | SOC Automation Lab |
 | Incident Response Planning and Execution | SOC Automation Lab |
 | Case Management with TheHive | SOC Automation Lab |
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab |
+
 
 ## Tools
 
