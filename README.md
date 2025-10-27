@@ -16,7 +16,7 @@ Cybersecurity enthusiast with a strong IT background, focused on safeguarding ne
 
 | Skill/Project                                 | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Proffesional statement                        | <a href="file:///C:/Users/rawat/Downloads/I%20am%20an%20aspiring%20cybersecurity%20professional%20with%20a%20solid%20fou.pdf">Detection Lab</a>|
+| Proffesional statement                        | <a href="[Download my Professional Statement](https://github.com/YourUsername/YourRepoName/raw/main/Professional_Statement.pdf)">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
