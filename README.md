@@ -14,9 +14,9 @@ Cybersecurity enthusiast with a strong IT background, focused on safeguarding ne
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill/Project                                 | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Proffesional statement                        | <a href="file:///C:/Users/rawat/Downloads/I%20am%20an%20aspiring%20cybersecurity%20professional%20with%20a%20solid%20fou.pdf">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
