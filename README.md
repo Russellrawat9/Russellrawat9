@@ -3,7 +3,7 @@
 
 ## Brief Introduction
 
-Bilingual IT Learner with a Level 3 BTEC in Information Technology. Passionate about problem-solving, teamwork, and achieving consistent, high-quality results.
+Bilingual aspiring cybersecurity professional with a Level 3 BTEC in Information Technology, holding CompTIA Security+ and Google Cybersecurity certifications. Strong in problem-solving, teamwork, and delivering consistent, high-quality results. Currently developing practical skills in cybersecurity and IT systems, with a focus on real-world application.
 
 ## Objective
 
