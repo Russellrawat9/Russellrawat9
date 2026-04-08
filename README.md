@@ -43,8 +43,15 @@ Cybersecurity enthusiast with a strong IT background, focused on safeguarding ne
 </div>
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+- CompTIA Security+  
+  - Industry-recognized certification covering network security, threat management, and risk mitigation  
+  - [View Badge](https://www.credly.com/earner/earned/badge/79766df6-a736-4048-a97a-319b9dde5c22)
+
+- Google Cybersecurity Certificate  
+  - Covers: SIEM, threat detection, incident response, and risk management  
+  - [View Badge](https://www.credly.com/earner/earned/badge/d007206c-283d-4b0f-b871-4db62ded02d9)
+ 
 </div>
 
 ## Projects
