@@ -19,6 +19,26 @@ Cybersecurity enthusiast with a strong IT background, focused on safeguarding ne
 | Case Management with TheHive | SOC Automation Lab |
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab |
 
+## Experience
+
+**Concierge – Kerrington Developers (2025)**
+
+* Monitored building security systems and maintained situational awareness across premises
+* Managed access control, visitor verification, and incident reporting procedures
+* Responded to security incidents and escalated issues appropriately
+* Maintained detailed logs of daily activities, incidents, and service requests
+
+**Operations Assistant – Desi Mantra (2023–2025)**
+
+* Ensured operational accuracy and quality control in fast-paced environments
+* Performed data tracking (inventory, customer feedback) to support decision-making
+* Strengthened attention to detail and process efficiency
+
+**Teaching Assistant – Henry Green Primary School (2022)**
+
+* Applied structured problem-solving and analytical thinking in learning environments
+* Communicated complex information clearly and effectively
+* Supported collaboration and teamwork in dynamic settings
 
 ## Certifications
 
