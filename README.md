@@ -12,7 +12,7 @@ Cybersecurity enthusiast with a strong IT background, focused on safeguarding ne
 ## Skills
 | Skill/Project | Associated Project |
 |----------------|--------------------|
-| Professional Statement | [View my Professional Statement](./russell-rawat-professional-statement.pdf)
+| Professional Statement | [View my Professional Statement](./Russell-Rawat-professional-statement.pdf)
 | Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) |
 | Security Automation with Shuffle SOAR | SOC Automation Lab |
 | Incident Response Planning and Execution | SOC Automation Lab |
