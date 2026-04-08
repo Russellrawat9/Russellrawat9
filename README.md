@@ -13,30 +13,73 @@ Cybersecurity enthusiast with a strong IT background, focused on safeguarding ne
 ### Web Application Security Incident Analysis
 
 **Scenario:**
-A website experienced a security breach where users were prompted to download a malicious file disguised as a legitimate update. Multiple users reported system slowdowns after interacting with the site, indicating a potential compromise.
+Users were tricked into downloading a malicious file from a compromised website, leading to system issues and unauthorized access.
 
 **What I did:**
 
-* Analyzed network traffic using tcpdump to investigate suspicious activity
-* Identified HTTP as the protocol used to deliver the malicious payload
-* Tracked redirection from a legitimate domain to a malicious site
-* Determined that a brute-force attack was used to compromise administrator access
-* Investigated how malicious code was injected into the web application
+* Analyzed network traffic using tcpdump
+* Identified HTTP-based malware delivery and malicious redirection
+* Determined brute-force attack led to admin account compromise
+* Recommended security controls including password policies and 2FA
 
-**Skills demonstrated:**
-
-* Network Traffic Analysis (tcpdump)
-* Incident Response & Investigation
-* Threat Detection & Analysis
-* Understanding of Web-based Attacks
-* Risk Mitigation Strategies
-
-**Outcome:**
-
-* Identified the attack vector and method of compromise
-* Recommended security improvements including password policies and multi-factor authentication (2FA)
+**Skills:**
+Network Analysis • Incident Response • Threat Detection
 
 [View Report](./cybersecurity-incident-report.pdf)
+
+### Incident Handler’s Journal
+
+**Scenario:**
+Documented and analyzed multiple cybersecurity incidents, including a ransomware attack on a healthcare organization and network traffic investigations.
+
+**What I did:**
+
+* Applied the incident response lifecycle (detection, analysis, containment, recovery)
+* Used Wireshark and tcpdump to analyze network traffic and packet data
+* Documented incidents using structured methods such as the 5 W’s (Who, What, When, Where, Why)
+* Analyzed ransomware attack vectors, including phishing-based entry points
+
+**Skills:**
+Incident Response • Network Analysis • Wireshark • tcpdump • Threat Analysis
+
+[View Journal](./incident-handlers-journal.pdf)
+
+### Security Risk Assessment & System Hardening
+
+**Scenario:**
+Conducted a security assessment to identify vulnerabilities within an organization’s systems and recommend effective hardening strategies.
+
+**What I did:**
+
+* Identified key security risks and proposed mitigation strategies
+* Recommended implementation of multi-factor authentication (MFA)
+* Designed strong password policy guidelines to prevent unauthorized access
+* Evaluated firewall configurations and recommended regular maintenance practices
+
+**Skills:**
+Risk Assessment • Security Hardening • Access Control • Network Security
+
+[View Report](./security-risk-assessment.pdf)
+
+### DDoS Attack Analysis (NIST Framework)
+
+**Scenario:**
+Analyzed a distributed denial-of-service (DDoS) attack where an organization’s network was overwhelmed by an ICMP flood, causing a system-wide outage.
+
+**What I did:**
+
+* Applied the NIST incident response framework (Identify, Protect, Detect, Respond, Recover)
+* Identified ICMP flood attack as the root cause of network disruption
+* Proposed firewall rules and IDS/IPS solutions to mitigate malicious traffic
+* Recommended monitoring and response strategies to handle future attacks
+
+**Skills:**
+Network Security • Threat Analysis • NIST Framework • Incident Response
+
+[View Report](./incident-report-analysis.pdf)
+
+
+
 
 
 ## Experience
