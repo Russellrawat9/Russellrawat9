@@ -9,7 +9,7 @@ Bilingual aspiring cybersecurity professional with a Level 3 BTEC in Information
 
 ## Objective
 
-Cybersecurity enthusiast with a strong IT background, focused on safeguarding networks and data. Dedicated to expanding my expertise and contributing to safer digital environments.
+Aspiring cybersecurity professional with a foundation in information technology and practical experience gained through hands-on projects in incident response, network analysis, and risk assessment. Certified in CompTIA Security+ and Google Cybersecurity, with a focus on developing the skills needed to protect systems, networks, and data.
 
 
 ## Projects
