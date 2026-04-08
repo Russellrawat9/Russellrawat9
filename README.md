@@ -9,15 +9,35 @@ Bilingual aspiring cybersecurity professional with a Level 3 BTEC in Information
 
 Cybersecurity enthusiast with a strong IT background, focused on safeguarding networks and data. Dedicated to expanding my expertise and contributing to safer digital environments.
 
-## Skills
-| Skill/Project | Associated Project |
-|----------------|--------------------|
-| Professional Statement | [View my Professional Statement](./Russell-Rawat-professional-statement.pdf) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) |
-| Security Automation with Shuffle SOAR | SOC Automation Lab |
-| Incident Response Planning and Execution | SOC Automation Lab |
-| Case Management with TheHive | SOC Automation Lab |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab |
+## Projects
+### Web Application Security Incident Analysis
+
+**Scenario:**
+A website experienced a security breach where users were prompted to download a malicious file disguised as a legitimate update. Multiple users reported system slowdowns after interacting with the site, indicating a potential compromise.
+
+**What I did:**
+
+* Analyzed network traffic using tcpdump to investigate suspicious activity
+* Identified HTTP as the protocol used to deliver the malicious payload
+* Tracked redirection from a legitimate domain to a malicious site
+* Determined that a brute-force attack was used to compromise administrator access
+* Investigated how malicious code was injected into the web application
+
+**Skills demonstrated:**
+
+* Network Traffic Analysis (tcpdump)
+* Incident Response & Investigation
+* Threat Detection & Analysis
+* Understanding of Web-based Attacks
+* Risk Mitigation Strategies
+
+**Outcome:**
+
+* Identified the attack vector and method of compromise
+* Recommended security improvements including password policies and multi-factor authentication (2FA)
+
+[View Report](./cybersecurity-incident-report.pdf)
+
 
 ## Experience
 
@@ -51,5 +71,3 @@ Cybersecurity enthusiast with a strong IT background, focused on safeguarding ne
   - [View Badge](https://www.credly.com/earner/earned/badge/d007206c-283d-4b0f-b871-4db62ded02d9)
  
 </div>
-
-## Projects
