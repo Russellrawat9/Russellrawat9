@@ -42,7 +42,7 @@ Documented and analyzed multiple cybersecurity incidents, including a ransomware
 **Skills:**
 Incident Response • Network Analysis • Wireshark • tcpdump • Threat Analysis
 
-[View Journal](./incident-handlers-journal.pdf)
+[View Journal](./incident-handler-journal.pdf)
 
 ### Security Risk Assessment & System Hardening
 
